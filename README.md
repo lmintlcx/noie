@@ -3,7 +3,7 @@
 
 ## 在线预览
 
-<a href="https://www.lmintlcx.com/noie/" target="_blank">点击查看</a>
+<a href="https://noie.lmintlcx.com/" target="_blank">点击查看</a>
 
 ## 使用方法
 
